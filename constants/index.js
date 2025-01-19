@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://zoisekyvgwfbksletzyz.supabase.co'
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpvaXNla3l2Z3dmYmtzbGV0enl6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcxMTcxMDMsImV4cCI6MjA1MjY5MzEwM30.1_EPZJVNDnZnGZtgzVEQ5h03HVfi4F-N_kceHJebjr4'
